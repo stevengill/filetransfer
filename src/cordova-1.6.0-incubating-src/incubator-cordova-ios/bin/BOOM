@@ -1,7 +1,0 @@
-#! /bin/sh
-./bin/create
-cd ./example
-./phonegap/debug && ./phonegap/log
-
-# this one is for steve jobs
-say 'BOOOOOOOM'
